@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 public class BankingSystem {
-    static void main(String[] args) {
+    public static void main(String[] args) {
     Scanner reading = new Scanner(System.in);
     Card card = new Card();
 
